@@ -37,7 +37,7 @@
     </a>
 </p>
 
-<h3 align="right">Language(s):</h3>
+<h3 align="right">Language/Module(s):</h3>
 <p align="right">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
