@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<h3 align="right">Language/Module(s):</h3>
+<h3 align="right">Language(s):</h3>
 <p align="right">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://github.com/negerleins/negerleins/blob/main/C++lang.png?raw=true" alt="cplusplus" width="40" height="40"/>
