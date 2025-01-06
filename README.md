@@ -30,28 +30,22 @@
 
 <h3 align="right">Language/Module(s):</h3>
 <p align="right">
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        <img src="https://github.com/negerleins/negerleins/blob/main/C++lang.png?raw=true" alt="cplusplus" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+        <img src="https://github.com/negerleins/negerleins/blob/main/C%23lang.png?raw=true" alt="csharp" width="40" height="40"/>
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/negerleins/negerleins/blob/main/Rustlang.png?raw=true" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://github.com/negerleins/negerleins/blob/main/Javascriptlang.png?raw=true" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/negerleins/negerleins/blob/main/Typescriptlang.png?raw=true" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://github.com/negerleins/negerleins/blob/main/Pythonlang.png?raw=true" alt="python" width="40" height="40"/>
     </a>
 </p>
