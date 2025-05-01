@@ -1,6 +1,3 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center">A passionate full-stack engineer from Denmark</h3>
 
 <h3 align="left">Tool(s):</h3>
@@ -15,6 +12,8 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=negerleins)](https://github.com/negerleins/github-readme-stats)
 
 <h3 align="right">Language(s):</h3>
 <p align="right">
