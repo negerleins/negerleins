@@ -21,7 +21,7 @@
         <img src="https://github.com/negerleins/negerleins/blob/main/C++lang.png?raw=true" alt="cplusplus" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/negerleins/negerleins/blob/main/C%23lang.png?raw=true" alt="csharp" width="40" height="40"/>
+        <img src="https://github.com/negerleins/negerleins/blob/main/Cslang.png?raw=true" alt="csharp" width="40" height="40"/>
     </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/negerleins/negerleins/blob/main/Rustlang.png?raw=true" alt="javascript" width="40" height="40"/>
